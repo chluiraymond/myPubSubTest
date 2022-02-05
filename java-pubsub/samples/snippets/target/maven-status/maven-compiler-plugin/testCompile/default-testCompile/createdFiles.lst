@@ -1,0 +1,6 @@
+pubsub/PublisherIT.class
+pubsub/DeadLetterQueueIT.class
+pubsub/AdminIT.class
+pubsub/SchemaIT.class
+pubsub/SubscriberIT.class
+pubsub/SubscriberIT$CheckedRunnable.class

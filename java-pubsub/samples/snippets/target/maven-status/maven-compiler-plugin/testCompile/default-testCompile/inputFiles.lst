@@ -1,0 +1,5 @@
+/home/raymond_chlui/java-pubsub/samples/snippets/src/test/java/pubsub/PublisherIT.java
+/home/raymond_chlui/java-pubsub/samples/snippets/src/test/java/pubsub/AdminIT.java
+/home/raymond_chlui/java-pubsub/samples/snippets/src/test/java/pubsub/SchemaIT.java
+/home/raymond_chlui/java-pubsub/samples/snippets/src/test/java/pubsub/DeadLetterQueueIT.java
+/home/raymond_chlui/java-pubsub/samples/snippets/src/test/java/pubsub/SubscriberIT.java
